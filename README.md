@@ -51,9 +51,16 @@
 
 ---
 
+## Day 7
+
+### Fibonacci Series
+🔢 **Fibonacci Series**
+
+Implemented a Java program to print the Fibonacci sequence up to a given number of terms. Practiced loops, variable manipulation, and sequence generation in Java.
 ## 🔜 Upcoming Programs
 
-* Fibonacci Series
+---
+
 * Palindrome Number
 * Armstrong Number
 * Perfect Number
