@@ -61,7 +61,16 @@ Implemented a Java program to print the Fibonacci sequence up to a given number 
 
 ---
 
-* Palindrome Number
+## Day 8
+
+### Palindrome Number
+🔄 **Palindrome Number**
+
+Implemented a Java program to check whether a given number is a palindrome. Practiced loops, digit manipulation, and conditional logic in Java.
+
+---
+
+
 * Armstrong Number
 * Perfect Number
 * Strong Number
