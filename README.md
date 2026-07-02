@@ -70,8 +70,14 @@ Implemented a Java program to check whether a given number is a palindrome. Prac
 
 ---
 
+## Day 9
+### Armstrong Number
+💪 Armstrong Number
 
-* Armstrong Number
+Implemented a Java program to check whether a given number is an Armstrong Number without using the Math.pow() method. Practiced loops, digit counting, manual power calculation, number manipulation, and conditional logic in Java.
+
+---
+
 * Perfect Number
 * Strong Number
 * GCD & LCM
