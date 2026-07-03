@@ -78,7 +78,14 @@ Implemented a Java program to check whether a given number is an Armstrong Numbe
 
 ---
 
-* Perfect Number
+Day 10
+Perfect Number
+✨ Perfect Number Checker
+
+Implemented a Java program to check whether a given number is a Perfect Number. The program calculates the sum of all proper divisors (excluding the number itself) and compares it with the original number. Practiced loops, conditional statements, methods, and divisor-based mathematical logic in Java.
+---
+
+ 
 * Strong Number
 * GCD & LCM
 * Leap Year
