@@ -73,14 +73,13 @@ Implemented a Java program to check whether a given number is a palindrome. Prac
 ### Armstrong Number
 💪 Armstrong Number
 
-Implemented a Java program to check whether a given number is an Armstrong Number without using the Math.pow() method. Practiced loops, digit counting, manual power calculation, number manipulation, and conditional logic in Java.
+Implemented a Java program to check whether a given number is a Perfect Number by calculating the sum of its proper divisors (excluding the number itself) and comparing it with the original number. Practiced loops, divisor-based calculations, methods, number manipulation, and conditional logic in Java.
 
 ---
 
 Day 10
-Perfect Number
-✨ Perfect Number Checker
-
+### Perfect Number
+***_erfect number
 Implemented a Java program to check whether a given number is a Perfect Number. The program calculates the sum of all proper divisors (excluding the number itself) and compares it with the original number. Practiced loops, conditional statements, methods, and divisor-based mathematical logic in Java.
 ---
 
