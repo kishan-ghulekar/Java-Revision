@@ -57,7 +57,6 @@
 🔢 **Fibonacci Series**
 
 Implemented a Java program to print the Fibonacci sequence up to a given number of terms. Practiced loops, variable manipulation, and sequence generation in Java.
-## 🔜 Upcoming Programs
 
 ---
 
@@ -85,7 +84,8 @@ Perfect Number
 Implemented a Java program to check whether a given number is a Perfect Number. The program calculates the sum of all proper divisors (excluding the number itself) and compares it with the original number. Practiced loops, conditional statements, methods, and divisor-based mathematical logic in Java.
 ---
 
- 
+
+## 🔜 Upcoming Programs
 * Strong Number
 * GCD & LCM
 * Leap Year
