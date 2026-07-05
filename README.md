@@ -81,11 +81,17 @@ Day 10
 ### Perfect Number
 Perfect number
 Implemented a Java program to check whether a given number is a Perfect Number. The program calculates the sum of all proper divisors (excluding the number itself) and compares it with the original number. Practiced loops, conditional statements, methods, and divisor-based mathematical logic in Java.
+
 ---
 
+Day 11
+### Strong Number
+Strong Number
+Implemented a Java Program to check whether a given number is a Strong Number by calculating the factorical of each digit, summing those factorials, and comparing the result with the original number. Practiced loops, methods, factorial calculation, digit manipulation, number processing, amd conditional logic in Java. 
+
+---
 
 ## 🔜 Upcoming Programs
-* Strong Number
 * GCD & LCM
 * Leap Year
 * Pattern Programs
