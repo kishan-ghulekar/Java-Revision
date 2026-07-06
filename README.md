@@ -91,8 +91,15 @@ Implemented a Java Program to check whether a given number is a Strong Number by
 
 ---
 
+Day 12
+###GCD and LCM calculator
+GCD and LCM calculator
+Implemented a Java program to find the Greatest Common Divisor (GCD) and Least Common Multiple (LCM) of two numbers using the Euclidean Algorithm. The program efficiently calculates the GCD by repeatedly replacing the larger number with the remainder of dividing it by the smaller number until the remainder becomes zero. It then computes the LCM using the formula LCM = (a × b) / GCD. This implementation demonstrates methods, loops, mathematical algorithms, modular arithmetic (%), user input handling, and code reusability in Java.
+
+---
+
+
 ## 🔜 Upcoming Programs
-* GCD & LCM
 * Leap Year
 * Pattern Programs
 * Arrays
