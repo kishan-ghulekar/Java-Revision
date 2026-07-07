@@ -98,9 +98,15 @@ Implemented a Java program to find the Greatest Common Divisor (GCD) and Least C
 
 ---
 
+Day 13
+### Leap Year
+Leap Year 
+Implemented a Java program to determine whether a given year is a Leap Year using the standard Gregorian calendar rules (divisible by 4, except years divisible by 100 unless also divisible by 400). Practiced conditional statements, modulo operations, user input handling, and logical decision-making in Java.
+
+----
+
 
 ## 🔜 Upcoming Programs
-* Leap Year
 * Pattern Programs
 * Arrays
 * Strings
