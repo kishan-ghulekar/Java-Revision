@@ -105,9 +105,47 @@ Implemented a Java program to determine whether a given year is a Leap Year usin
 
 ----
 
+Day 14 – Square Pattern
+### Square Pattern
+Square Pattern
+Implemented a Java program to print a square star (*) pattern based on the number of rows entered by the user. Practiced nested for loops, user input handling, method creation, and pattern printing logic in Java.
+
+----
 
 ## 🔜 Upcoming Programs
 * Pattern Programs
+- [ ] Right Triangle Pattern
+- [ ] Inverted Right Triangle Pattern
+- [ ] Left Triangle Pattern
+- [ ] Inverted Left Triangle Pattern
+- [ ] Full Pyramid Pattern
+- [ ] Inverted Pyramid Pattern
+- [ ] Diamond Pattern
+- [ ] Hollow Square Pattern
+- [ ] Hollow Rectangle Pattern
+- [ ] Hollow Pyramid Pattern
+- [ ] Hollow Diamond Pattern
+- [ ] Number Triangle Pattern
+- [ ] Inverted Number Triangle
+- [ ] Floyd's Triangle
+- [ ] Pascal's Triangle
+- [ ] 0-1 Triangle Pattern
+- [ ] Butterfly Pattern
+- [ ] Hourglass Pattern
+- [ ] Sandglass Pattern
+- [ ] Hollow Butterfly Pattern
+- [ ] Hollow Hourglass Pattern
+- [ ] Hollow Sandglass Pattern
+- [ ] Alphabet Triangle Pattern
+- [ ] Alphabet Pyramid Pattern
+- [ ] Continuous Number Pyramid
+- [ ] Zig-Zag Pattern
+- [ ] X Pattern
+- [ ] Heart Pattern
+- [ ] Spiral Number Pattern
+
+
+### 📚 Next Topics
 * Arrays
 * Strings
 * Recursion
