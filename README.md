@@ -77,44 +77,54 @@ Implemented a Java program to check whether a given number is a Perfect Number b
 
 ---
 
-Day 10
+## Day 10
 ### Perfect Number
 Perfect number
 Implemented a Java program to check whether a given number is a Perfect Number. The program calculates the sum of all proper divisors (excluding the number itself) and compares it with the original number. Practiced loops, conditional statements, methods, and divisor-based mathematical logic in Java.
 
 ---
 
-Day 11
+## Day 11
 ### Strong Number
 Strong Number
 Implemented a Java Program to check whether a given number is a Strong Number by calculating the factorical of each digit, summing those factorials, and comparing the result with the original number. Practiced loops, methods, factorial calculation, digit manipulation, number processing, amd conditional logic in Java. 
 
 ---
 
-Day 12
+## Day 12
 ### GCD and LCM calculator
 GCD and LCM calculator
 Implemented a Java program to find the Greatest Common Divisor (GCD) and Least Common Multiple (LCM) of two numbers using the Euclidean Algorithm. The program efficiently calculates the GCD by repeatedly replacing the larger number with the remainder of dividing it by the smaller number until the remainder becomes zero. It then computes the LCM using the formula LCM = (a × b) / GCD. This implementation demonstrates methods, loops, mathematical algorithms, modular arithmetic (%), user input handling, and code reusability in Java.
 
 ---
 
-Day 13
+## Day 13
 ### Leap Year
 Leap Year 
 Implemented a Java program to determine whether a given year is a Leap Year using the standard Gregorian calendar rules (divisible by 4, except years divisible by 100 unless also divisible by 400). Practiced conditional statements, modulo operations, user input handling, and logical decision-making in Java.
 
 ----
 
-Day 14 – Square Pattern
+## Day 14 
 ### Square Pattern
 Square Pattern
 Implemented a Java program to print a square star (*) pattern based on the number of rows entered by the user. Practiced nested for loops, user input handling, method creation, and pattern printing logic in Java.
 
 ----
 
+## Day 15 
+### Right Triangle Pattern
+Right Triangle Pattern
+Implemented a Java program to print a right triangle star (`*`) pattern based on the number of rows entered by the user. Practiced nested `for` loops, user input handling, and pattern printing logic in Java by increasing the number of stars in each row.
+
+----
+
 ## 🔜 Upcoming Programs
+
 * Pattern Programs
-- [ ] Right Triangle Pattern
+  
+- [✓]  Square Pattern
+- [✓] Right Triangle Pattern
 - [ ] Inverted Right Triangle Pattern
 - [ ] Left Triangle Pattern
 - [ ] Inverted Left Triangle Pattern
