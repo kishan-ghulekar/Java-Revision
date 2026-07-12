@@ -113,7 +113,7 @@ Implemented a Java program to print a square star (*) pattern based on the numbe
 ----
 
 ## 📅 Day 15 
-### Right Triangle Pattern
+###  Left Triangle Pattern
 Right Triangle Pattern
 Implemented a Java program to print a right triangle star (`*`) pattern based on the number of rows entered by the user. Practiced nested `for` loops, user input handling, and pattern printing logic in Java by increasing the number of stars in each row.
 
@@ -126,14 +126,21 @@ Implemented a Java program to print an **Inverted Right Triangle** star (`*`) pa
 
 ----
 
+## Day 17 
+### Right Triangle Pattern
+Right Triangle Pattern
+Implemented a Java program to print a Right Triangle Star (*) Pattern based on the number of rows entered by the user. Practiced nested for loops, spacing logic, user input handling, method creation, and pattern printing in Java.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
   
 - [✓]  Square Pattern
-- [✓] Right Triangle Pattern
+- [✓] Left Triangle Pattern
 - [✓] Inverted Right Triangle Pattern
-- [ ] Left Triangle Pattern
+- [✓] Right Triangle Pattern
 - [ ] Inverted Left Triangle Pattern
 - [ ] Full Pyramid Pattern
 - [ ] Inverted Pyramid Pattern
