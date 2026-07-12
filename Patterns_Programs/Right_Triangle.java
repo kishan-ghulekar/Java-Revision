@@ -1,20 +1,27 @@
 import java.util.*;
 class RightTriangle{
+
 	public static void rightTriangle(int rows){
 	
 		for(int i=1;i<=rows;i++){
 		
+			for(int j=1;j<=rows-i;j++){
+			
+				System.out.print(" ");
+			}
 			for(int j=1;j<=i;j++){
 			
-				System.out.print("* ");
+				System.out.print("*");
 			}
 			System.out.println();
 		}
 	}
+
 	public static void main(String[]args){
 	
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter Number of Rows:");
+
+		System.out.println("Enter the number of rows:");
 		int rows=sc.nextInt();
 
 		rightTriangle(rows);
@@ -22,20 +29,23 @@ class RightTriangle{
 }
 
 /*
-Input:
-Enter Number of Rows:
-5
-
 Output:
-*
-* *
-* * *
-* * * *
+Enter number of rows: 5
+
+	*
+      * *
+    * * *
+  * * * *
 * * * * *
 
 
-Logic:
-The outer loop (i) controls the number of rows.
-The inner loop (j) prints * from 1 to i.
-After printing each row, System.out.println() moves to the next line.
+Program Implementation:
+
+1.Takes the number of rows as input from the user.
+2.Uses nested for loops.
+3.The first inner loop prints the required spaces before each row.
+4.The second inner loop prints the stars (*).
+5.As the row number increases, the number of spaces decreases and the number of stars increases, forming a right-aligned triangle.
+
+
 */
