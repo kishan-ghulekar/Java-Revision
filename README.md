@@ -126,7 +126,7 @@ Implemented a Java program to print an **Inverted Right Triangle** star (`*`) pa
 
 ----
 
-## Day 17 
+## 📅 Day 17 
 ### Right Triangle Pattern
 Right Triangle Pattern
 Implemented a Java program to print a Right Triangle Star (*) Pattern based on the number of rows entered by the user. Practiced nested for loops, spacing logic, user input handling, method creation, and pattern printing in Java.
