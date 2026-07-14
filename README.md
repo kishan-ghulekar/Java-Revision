@@ -133,6 +133,12 @@ Implemented a Java program to print a Right Triangle Star (*) Pattern based on t
 
 ----
 
+## 📅 Day 18
+### Inverted Left Triangle Pattern
+Practiced the Inverted Left Triangle Pattern using nested loops in Java. Learned how to combine spaces and stars to create right-shifted inverted patterns, strengthening my understanding of loop execution and pattern logic.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -141,7 +147,7 @@ Implemented a Java program to print a Right Triangle Star (*) Pattern based on t
 - [✓] Left Triangle Pattern
 - [✓] Inverted Right Triangle Pattern
 - [✓] Right Triangle Pattern
-- [ ] Inverted Left Triangle Pattern
+- [[✓]] Inverted Left Triangle Pattern
 - [ ] Full Pyramid Pattern
 - [ ] Inverted Pyramid Pattern
 - [ ] Diamond Pattern
