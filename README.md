@@ -139,6 +139,13 @@ Practiced the Inverted Left Triangle Pattern using nested loops in Java. Learned
 
 ----
 
+## 📅 Day 19
+### Full Pyramid Pattern
+Full Pyramid Pattern
+Implemented the Full Pyramid Pattern in Java using nested loops and user input.
+This practice helped strengthen my understanding of loop control, spacing logic, and pattern programming.
+
+----
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -147,8 +154,8 @@ Practiced the Inverted Left Triangle Pattern using nested loops in Java. Learned
 - [✓] Left Triangle Pattern
 - [✓] Inverted Right Triangle Pattern
 - [✓] Right Triangle Pattern
-- [[✓]] Inverted Left Triangle Pattern
-- [ ] Full Pyramid Pattern
+- [✓] Inverted Left Triangle Pattern
+- [✓] Full Pyramid Pattern
 - [ ] Inverted Pyramid Pattern
 - [ ] Diamond Pattern
 - [ ] Hollow Square Pattern
