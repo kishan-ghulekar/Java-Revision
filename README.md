@@ -146,6 +146,14 @@ Implemented the Full Pyramid Pattern in Java using nested loops and user input.
 This practice helped strengthen my understanding of loop control, spacing logic, and pattern programming.
 
 ----
+
+## 📅 Day 20
+### Inverted Pyramid
+Inverted Pyramid
+Today I practiced the Inverted Pyramid Pattern in Java using nested loops. This exercise helped me strengthen my understanding of loop control, spacing logic, and pattern-building techniques. 🚀💻
+
+-----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
