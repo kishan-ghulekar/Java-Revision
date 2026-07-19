@@ -154,6 +154,11 @@ Today I practiced the Inverted Pyramid Pattern in Java using nested loops. This 
 
 -----
 
+## 📅 Day 21
+### Diamond Pattern
+Diamond Pattern
+A Diamond Pattern is formed by combining a Full Pyramid and an Inverted Pyramid. The upper half increases the number of stars row by row, while the lower half decreases them, creating a diamond shape. It demonstrates the use of nested loops, spacing logic, and pattern printing concepts in Java.
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -164,8 +169,8 @@ Today I practiced the Inverted Pyramid Pattern in Java using nested loops. This 
 - [✓] Right Triangle Pattern
 - [✓] Inverted Left Triangle Pattern
 - [✓] Full Pyramid Pattern
-- [ ] Inverted Pyramid Pattern
-- [ ] Diamond Pattern
+- [✓] Inverted Pyramid Pattern
+- [✓] Diamond Pattern
 - [ ] Hollow Square Pattern
 - [ ] Hollow Rectangle Pattern
 - [ ] Hollow Pyramid Pattern
