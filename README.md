@@ -167,6 +167,14 @@ Hollow Square Pattern
 Today I Practised prints stars only on the boundary of the square, leaving the inner area empty. It is created using nested loops and boundary conditions, making it a good practice problem for understanding loops and conditional statements in Java.
 
 ----
+
+
+## 📅 Day 23
+### Hollow Square Pattern
+Hollow Square Pattern Today I practised the Hollow Square Pattern, which prints stars only along the boundary of a square while leaving the inner area empty. It is implemented using nested loops and boundary conditions, making it an excellent exercise for improving understanding of loops, conditional statements, and pattern programming in Java.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -180,7 +188,7 @@ Today I Practised prints stars only on the boundary of the square, leaving the i
 - [✓] Inverted Pyramid Pattern
 - [✓] Diamond Pattern
 - [✓] Hollow Square Pattern
-- [ ] Hollow Rectangle Pattern
+- [✓] Hollow Rectangle Pattern
 - [ ] Hollow Pyramid Pattern
 - [ ] Hollow Diamond Pattern
 - [ ] Number Triangle Pattern
