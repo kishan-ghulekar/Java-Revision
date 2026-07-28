@@ -175,6 +175,11 @@ Hollow Square Pattern Today I practised the Hollow Square Pattern, which prints 
 
 ----
 
+## 📅 Day 24
+### Hollow Pyramid Pattern
+Today I practised the Hollow Pyramid Pattern, which prints stars only on the boundary of a pyramid while leaving the inside hollow. It helped me strengthen my understanding of nested loops, spacing logic, and conditional statements in Java.
+
+----
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -189,7 +194,7 @@ Hollow Square Pattern Today I practised the Hollow Square Pattern, which prints 
 - [✓] Diamond Pattern
 - [✓] Hollow Square Pattern
 - [✓] Hollow Rectangle Pattern
-- [ ] Hollow Pyramid Pattern
+- [✓] Hollow Pyramid Pattern
 - [ ] Hollow Diamond Pattern
 - [ ] Number Triangle Pattern
 - [ ] Inverted Number Triangle
