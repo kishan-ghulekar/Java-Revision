@@ -186,6 +186,14 @@ Today I practised the Hollow Pyramid Pattern, which prints stars only on the bou
 Today I practiced the Hollow Diamond Pattern in Java. This pattern prints stars only on the outline of a diamond while keeping the inside hollow. It uses nested loops, spacing logic, and conditional statements, making it a great exercise for improving loop control and pattern-printing skills.
 
 ----
+
+## 📅 Day 26
+### Number Triangle Pattern
+Number Triangle Pattern
+Strengthened my Java fundamentals by implementing the Number Triangle Pattern, reinforcing nested loops, iteration, and pattern-building logic.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -202,7 +210,7 @@ Today I practiced the Hollow Diamond Pattern in Java. This pattern prints stars 
 - [✓] Hollow Rectangle Pattern
 - [✓] Hollow Pyramid Pattern
 - [✓] Hollow Diamond Pattern
-- [ ] Number Triangle Pattern
+- [✓] Number Triangle Pattern
 - [ ] Inverted Number Triangle
 - [ ] Floyd's Triangle
 - [ ] Pascal's Triangle
