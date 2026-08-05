@@ -199,6 +199,13 @@ Strengthened my Java fundamentals by implementing the Number Triangle Pattern, r
 Today's Java practice focused on printing the Inverted Number Triangle pattern using nested loops. This program demonstrates how the outer loop controls the number of rows while the inner loop prints numbers from 1 to the current row value. It is a great exercise for understanding nested loops and pattern printing logic in Java.
 
 ----
+
+## 📅 Day 28 – Floyd's Triangle Pattern
+
+Today's Java practice focused on printing the **Floyd's Triangle** pattern using nested loops. This program demonstrates how the outer loop controls the number of rows, while the inner loop prints consecutive numbers. A variable is incremented after each print to generate the sequence, making it an excellent exercise for understanding nested loops, pattern printing, and sequential number generation in Java.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -217,7 +224,7 @@ Today's Java practice focused on printing the Inverted Number Triangle pattern u
 - [✓] Hollow Diamond Pattern
 - [✓] Number Triangle Pattern
 - [✓] Inverted Number Triangle
-- [ ] Floyd's Triangle
+- [✓] Floyd's Triangle
 - [ ] Pascal's Triangle
 - [ ] 0-1 Triangle Pattern
 - [ ] Butterfly Pattern
