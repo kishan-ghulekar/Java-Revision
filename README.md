@@ -206,6 +206,12 @@ Today's Java practice focused on printing the **Floyd's Triangle** pattern using
 
 ----
 
+## 📅 Day 29 – Pascal's Triangle Pattern
+
+Today's Java practice focused on printing **Pascal's Triangle** using nested loops and a mathematical formula. This program demonstrates how the outer loop controls the number of rows, while the inner loop prints the values of each row. Instead of using factorials, each value is calculated from the previous one using the binomial coefficient formula, making it an excellent exercise for understanding nested loops, pattern printing, and mathematical logic in Java.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -225,7 +231,7 @@ Today's Java practice focused on printing the **Floyd's Triangle** pattern using
 - [✓] Number Triangle Pattern
 - [✓] Inverted Number Triangle
 - [✓] Floyd's Triangle
-- [ ] Pascal's Triangle
+- [✓] Pascal's Triangle
 - [ ] 0-1 Triangle Pattern
 - [ ] Butterfly Pattern
 - [ ] Hourglass Pattern
