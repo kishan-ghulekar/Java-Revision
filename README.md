@@ -217,6 +217,13 @@ Today's Java practice focused on printing **Pascal's Triangle** using nested loo
 Today's Java practice focused on printing a Number Triangle using nested loops and a counter variable. This program demonstrates how the outer loop controls the number of rows, while the inner loop prints consecutive numbers in each row. The num variable is incremented after each print to generate the sequence, making it an excellent exercise for understanding nested loops, pattern printing, counters, and sequential number generation in Java.
 
 ----
+
+📅 Day 31 – Butterfly Number Pattern
+
+Today's Java practice focused on printing a Butterfly Number Pattern using nested loops and the ternary operator. This program demonstrates how the outer loop controls both the upper and lower halves of the pattern, while the inner loops print increasing numbers, spaces, and decreasing numbers. The rows variable is used to dynamically control the number of elements in each row, making it an excellent exercise for understanding nested loops, pattern printing, ternary operators, spacing, and loop control in Java.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -238,7 +245,7 @@ Today's Java practice focused on printing a Number Triangle using nested loops a
 - [✓] Floyd's Triangle
 - [✓] Pascal's Triangle
 - [✓] 0-1 Triangle Pattern
-- [ ] Butterfly Pattern
+- [✓] Butterfly Pattern
 - [ ] Hourglass Pattern
 - [ ] Sandglass Pattern
 - [ ] Hollow Butterfly Pattern
