@@ -218,9 +218,15 @@ Today's Java practice focused on printing a Number Triangle using nested loops a
 
 ----
 
-### 📅 Day 31 – Butterfly Number Pattern
+## 📅 Day 31 – Butterfly Number Pattern
 
 Today's Java practice focused on printing a Butterfly Number Pattern using nested loops and the ternary operator. This program demonstrates how the outer loop controls both the upper and lower halves of the pattern, while the inner loops print increasing numbers, spaces, and decreasing numbers. The rows variable is used to dynamically control the number of elements in each row, making it an excellent exercise for understanding nested loops, pattern printing, ternary operators, spacing, and loop control in Java.
+
+----
+
+## 📅 Day 32 – Hourglass Pattern
+
+Today's Java practice focused on printing an Hourglass Pattern using nested loops. This program demonstrates how spaces and stars are controlled using loops to create the upper and lower halves of the hourglass. It is an excellent exercise for understanding nested loops, spacing, pattern printing, and row-wise star calculations.
 
 ----
 
@@ -246,7 +252,7 @@ Today's Java practice focused on printing a Butterfly Number Pattern using neste
 - [✓] Pascal's Triangle
 - [✓] 0-1 Triangle Pattern
 - [✓] Butterfly Pattern
-- [ ] Hourglass Pattern
+- [✓] Hourglass Pattern
 - [ ] Sandglass Pattern
 - [ ] Hollow Butterfly Pattern
 - [ ] Hollow Hourglass Pattern
