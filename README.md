@@ -230,6 +230,12 @@ Today's Java practice focused on printing an Hourglass Pattern using nested loop
 
 ----
 
+## 📅 Day 33 – Sandglass Pattern in Java
+
+Today's Java practice focused on printing a Sandglass Pattern using nested for loops. This program demonstrates how spaces and stars can be controlled to create the upper and lower halves of a sandglass shape, making it a useful exercise for understanding nested loops, pattern printing, spacing, and increasing/decreasing sequences.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -253,7 +259,7 @@ Today's Java practice focused on printing an Hourglass Pattern using nested loop
 - [✓] 0-1 Triangle Pattern
 - [✓] Butterfly Pattern
 - [✓] Hourglass Pattern
-- [ ] Sandglass Pattern
+- [✓] Sandglass Pattern
 - [ ] Hollow Butterfly Pattern
 - [ ] Hollow Hourglass Pattern
 - [ ] Hollow Sandglass Pattern
