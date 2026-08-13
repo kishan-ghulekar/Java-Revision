@@ -236,6 +236,12 @@ Today's Java practice focused on printing a Sandglass Pattern using nested for l
 
 ----
 
+## 📅 Day 35 – Hollow Butterfly Pattern
+
+Today’s Java practice focused on printing a Hollow Butterfly Pattern using nested loops and conditional statements. This exercise helped me understand how to control stars and spaces to create hollow wings, while strengthening my understanding of nested loops, conditions, and pattern-printing logic.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -260,7 +266,7 @@ Today's Java practice focused on printing a Sandglass Pattern using nested for l
 - [✓] Butterfly Pattern
 - [✓] Hourglass Pattern
 - [✓] Sandglass Pattern
-- [ ] Hollow Butterfly Pattern
+- [✓] Hollow Butterfly Pattern
 - [ ] Hollow Hourglass Pattern
 - [ ] Hollow Sandglass Pattern
 - [ ] Alphabet Triangle Pattern
