@@ -242,7 +242,7 @@ Today’s Java practice focused on printing a Hollow Butterfly Pattern using nes
 
 ----
 
-## 📌 Day 30 – Hollow Hourglass Pattern in Java
+## 📌 Day 36 – Hollow Hourglass Pattern in Java
 
 Today I practiced the Hollow Hourglass Pattern in Java. I learned how to divide the pattern into upper and lower halves, manage leading spaces, and print stars only at the boundary positions using conditional statements.I also improved my understanding of nested loops, row-wise pattern logic, spacing, and hollow pattern formation.
 
