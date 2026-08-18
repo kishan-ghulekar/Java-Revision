@@ -260,6 +260,10 @@ Today I practiced the Alphabet Triangle Pattern in Java. I learned how to create
 
 ----
 
+## 📅 Day 39 - Alphabet Pyramid Pattern in Java
+
+Today I practiced the Alphabet Pyramid Pattern in Java. I learned how to create a centered pyramid pattern using alphabets with nested for loops. I also understood how to use spaces to properly align the pyramid and how to generate consecutive alphabets using ASCII values with (char)(64 + j). This practice helped me improve my understanding of nested loops, character handling, user input, spacing, and pattern-printing logic.
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -288,7 +292,7 @@ Today I practiced the Alphabet Triangle Pattern in Java. I learned how to create
 - [✓] Hollow Hourglass Pattern
 - [✓] Hollow Sandglass Pattern
 - [✓] Alphabet Triangle Pattern
-- [ ] Alphabet Pyramid Pattern
+- [✓] Alphabet Pyramid Pattern
 - [ ] Continuous Number Pyramid
 - [ ] Zig-Zag Pattern
 - [ ] X Pattern
