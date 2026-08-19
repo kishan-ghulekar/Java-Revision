@@ -266,6 +266,11 @@ Today I practiced the Alphabet Pyramid Pattern in Java. I learned how to create 
 
 ----
 
+## 📅 Day 40 -  Continuous Number Pyramid Pattern in Java
+Today I practiced the Continuous Number Pyramid Pattern in Java. I learned how to create a pyramid pattern using consecutive numbers with nested for loops. I also understood how to manage spaces for proper alignment and how to increment numbers continuously across each row. This practice helped me improve my understanding of nested loops, number handling, user input, spacing, and pattern-printing logic.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -295,7 +300,7 @@ Today I practiced the Alphabet Pyramid Pattern in Java. I learned how to create 
 - [✓] Hollow Sandglass Pattern
 - [✓] Alphabet Triangle Pattern
 - [✓] Alphabet Pyramid Pattern
-- [ ] Continuous Number Pyramid
+- [✓] Continuous Number Pyramid
 - [ ] Zig-Zag Pattern
 - [ ] X Pattern
 - [ ] Heart Pattern
