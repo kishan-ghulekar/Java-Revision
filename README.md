@@ -271,6 +271,11 @@ Today I practiced the Continuous Number Pyramid Pattern in Java. I learned how t
 
 ----
 
+## 📅 Day 41 - Zig-Zag Pattern in Java
+
+Today I practiced the Upper Zig-Zag Pattern in Java. I learned how to create a zig-zag pattern using nested for loops and conditional statements. I also understood how to control the position of stars using row and column indexes and how to use spaces for proper alignment. This practice helped me improve my understanding of nested loops, conditional logic, row-column positioning, spacing, and pattern-printing
+
+----
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -301,7 +306,7 @@ Today I practiced the Continuous Number Pyramid Pattern in Java. I learned how t
 - [✓] Alphabet Triangle Pattern
 - [✓] Alphabet Pyramid Pattern
 - [✓] Continuous Number Pyramid
-- [ ] Zig-Zag Pattern
+- [✓] Zig-Zag Pattern
 - [ ] X Pattern
 - [ ] Heart Pattern
 - [ ] Spiral Number Pattern
