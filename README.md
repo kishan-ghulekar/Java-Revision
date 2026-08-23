@@ -283,6 +283,12 @@ Today I practiced the X Pattern in Java. I learned how to create an X-shaped pat
 
 ----
 
+## 📅 Day 42 - Heart Pattern in Java
+
+Today I practiced the Heart Pattern in Java. I learned how to create a heart-shaped pattern using nested for loops and understand how to control stars and spaces to form the upper and lower parts of the heart. I also learned how to adjust the number of stars and spaces in each row for proper alignment and shape. This practice helped me improve my understanding of nested loops, spacing, star patterns, row-wise logic, and pattern-printing techniques.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -315,7 +321,7 @@ Today I practiced the X Pattern in Java. I learned how to create an X-shaped pat
 - [✓] Continuous Number Pyramid
 - [✓] Zig-Zag Pattern
 - [✓] X Pattern
-- [ ] Heart Pattern
+- [✓] Heart Pattern
 - [ ] Spiral Number Pattern
 
 
