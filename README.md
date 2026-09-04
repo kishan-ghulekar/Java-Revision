@@ -289,6 +289,14 @@ Today I practiced the Heart Pattern in Java. I learned how to create a heart-sha
 
 ----
 
+## 📅 Day 43 - Spiral Number Pattern in Java
+
+Today I practiced the **Spiral Number Pattern** in Java. I learned how to create a square matrix and fill it with numbers in a spiral order using loops. The pattern starts from the top-left corner and moves **left to right, top to bottom, right to left, and bottom to top** until the entire matrix is filled.
+
+I also learned how to control the four boundaries — **top, bottom, left, and right** — and update them after completing each direction. This practice helped me improve my understanding of **2D arrays, nested loops, boundary conditions, row-wise and column-wise traversal, and pattern-printing techniques**.
+
+----
+
 ## 🔜 Upcoming Programs
 
 * Pattern Programs
@@ -322,7 +330,7 @@ Today I practiced the Heart Pattern in Java. I learned how to create a heart-sha
 - [✓] Zig-Zag Pattern
 - [✓] X Pattern
 - [✓] Heart Pattern
-- [ ] Spiral Number Pattern
+- [✓] Spiral Number Pattern
 
 
 ### 📚 Next Topics
